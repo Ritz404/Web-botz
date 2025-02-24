@@ -9,6 +9,10 @@
             "destination": "/script.html"
         },
         {
+            "source": "/tutorial",
+            "destination": "/tutorial.html"
+        },
+        {
             "source": "/donasi",
             "destination": "/donasi.html"
         },
