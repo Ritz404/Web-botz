@@ -1,0 +1,24 @@
+{
+    "rewrites": [
+        {
+            "source": "/index",
+            "destination": "/index.html"
+        },
+        {
+            "source": "/script",
+            "destination": "/script.html"
+        },
+        {
+            "source": "/tutorial",
+            "destination": "/tutorial.html"
+        },
+        {
+            "source": "/donasi",
+            "destination": "/donasi.html"
+        },
+        {
+            "source": "/aifreya",
+            "destination": "/aifreya.html"
+        }
+    ]
+}
